@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: apps/templates
-    repoURL: https://github.com/arthurk/argocd-example-install.git
+    repoURL: https://github.com/nanusefue/argocd-example.git
     targetRevision: HEAD
   syncPolicy:
     automated:
